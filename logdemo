@@ -1,0 +1,380 @@
+
+E/Vold    ( 1190): /dev/block/vold/8:1 appears to be a read only filesystem - retrying mount RO
+E/Vold    ( 1190): /dev/block/vold/8:1 failed to mount via NTFS (Invalid argument)
+
+E/InputMethodManagerService( 1614): Ignoring setImeWindowStatus due to an invalid token. uid:1000 token:null
+
+无效的缩略图尺寸（crash on Android L 图片尺寸变小）
+E/ActivityManager( 1614): Invalid thumbnail dimensions: 630x630
+
+ Android5.0网络评分导致的以太网不能连接,恢复出厂设置以后；开机向导连接wifi后连接有线网络不成功，重启之后才能成功。
+ (http://blog.csdn.net/tankai19880619/article/details/45099385)
+E/ConnectivityService( 1614): Unexpected mtu value: 0, wlan0
+
+未能找到安装卷
+E/Vold    ( 1190): Failed to find mounted volume for /mnt/sdcard/Android/obb/com.enjoymi.sgzj.lb/
+
+E/Vold    ( 1190): Failed to find mounted volume for /mnt/sdcard/Android/obb/com.enjoymi.sgzj.lb/
+
+E/Vold    ( 1190): Failed to find mounted volume for /mnt/sdcard/Android/obb/com.enjoymi.sgzj.lb/
+
+W/Vold    ( 1190): Returning OperationFailed - no handler for errno 0
+
+E/Vold    ( 1190): /dev/block/vold/8:4 appears to be a read only filesystem - retrying mount RO
+
+E/Vold    ( 1190): Failed to find mounted volume for /mnt/sdcard/Android/obb/com.enjoymi.sgzj.lb/
+
+E/Vold    ( 1190): /dev/block/vold/8:1 appears to be a read only filesystem - retrying mount RO
+
+E/Vold    ( 1190): /dev/block/vold/8:1 failed to mount via NTFS (Invalid argument)
+
+E/Vold    ( 1190): /dev/block/vold/8:1 appears to be a read only filesystem - retrying mount RO
+E/Vold    ( 1190): /dev/block/vold/8:1 failed to mount via NTFS (Invalid argument)
+
+(活动未回复，执行停止，应该在onResume方法中执行)
+E/WifiStateMachine( 1614): handleMessage: E msg.what=131155
+E/WifiStateMachine( 1614): processMsg: ConnectedState
+E/WifiStateMachine( 1614): processMsg: L2ConnectedState
+E/WifiStateMachine( 1614):  get link layer stats 0
+
+E/WifiStateMachine( 1614): fetchRssiLinkSpeedAndFrequencyNative rssi=-45 linkspeed=300
+E/WifiStateMachine( 1614): calculateWifiScore freq=2412 speed=300 score=60 highRSSI  -> txbadrate=0.00 txgoodrate=593.26 txretriesrate=0.00 rxrate=1530.85 userTriggerdPenalty0
+E/WifiStateMachine( 1614):  good link -> stuck count =0
+E/WifiStateMachine( 1614):  badRSSI count0 lowRSSI count0 --> score 60
+E/WifiStateMachine( 1614):  isHighRSSI       ---> score=65
+E/WifiStateMachine( 1614): handleMessage: X
+
+E/WifiStateMachine( 1614): handleMessage: E msg.what=131131
+E/WifiStateMachine( 1614): processMsg: ConnectedState
+E/WifiStateMachine( 1614): processMsg: L2ConnectedState
+E/WifiStateMachine( 1614): processMsg: ConnectModeState
+E/WifiStateMachine( 1614): handleMessage: X
+
+E/WifiStateMachine( 1614): handleMessage: E msg.what=131155
+E/WifiStateMachine( 1614): processMsg: ConnectedState
+E/WifiStateMachine( 1614): processMsg: L2ConnectedState
+E/WifiStateMachine( 1614):  get link layer stats 0
+E/WifiStateMachine( 1614): fetchRssiLinkSpeedAndFrequencyNative rssi=-45 linkspeed=300
+E/WifiStateMachine( 1614): calculateWifiScore freq=2412 speed=300 score=60 highRSSI  -> txbadrate=0.00 txgoodrate=301.63 txretriesrate=0.00 rxrate=769.93 userTriggerdPenalty0
+E/WifiStateMachine( 1614):  good link -> stuck count =0
+E/WifiStateMachine( 1614):  badRSSI count0 lowRSSI count0 --> score 60
+E/WifiStateMachine( 1614):  isHighRSSI       ---> score=65
+E/WifiStateMachine( 1614): handleMessage: X
+
+E/WifiStateMachine( 1614): handleMessage: E msg.what=131155
+E/WifiStateMachine( 1614): processMsg: ConnectedState
+E/WifiStateMachine( 1614): processMsg: L2ConnectedState
+E/WifiStateMachine( 1614):  get link layer stats 0
+E/WifiStateMachine( 1614): fetchRssiLinkSpeedAndFrequencyNative rssi=-45 linkspeed=300
+E/WifiStateMachine( 1614): calculateWifiScore freq=2412 speed=300 score=60 highRSSI  -> txbadrate=0.00 txgoodrate=154.31 txretriesrate=0.00 rxrate=389.46 userTriggerdPenalty0
+E/WifiStateMachine( 1614):  good link -> stuck count =0
+E/WifiStateMachine( 1614):  badRSSI count0 lowRSSI count0 --> score 60
+E/WifiStateMachine( 1614):  isHighRSSI       ---> score=65
+E/WifiStateMachine( 1614): handleMessage: X
+
+E/WifiStateMachine( 1614): handleMessage: E msg.what=131155
+E/WifiStateMachine( 1614): processMsg: ConnectedState
+E/WifiStateMachine( 1614): processMsg: L2ConnectedState
+E/WifiStateMachine( 1614):  get link layer stats 0
+E/WifiStateMachine( 1614): fetchRssiLinkSpeedAndFrequencyNative rssi=-45 linkspeed=300
+E/WifiStateMachine( 1614): calculateWifiScore freq=2412 speed=300 score=60 highRSSI  -> txbadrate=0.00 txgoodrate=81.66 txretriesrate=0.00 rxrate=203.23 userTriggerdPenalty0
+E/WifiStateMachine( 1614):  good link -> stuck count =0
+E/WifiStateMachine( 1614):  badRSSI count0 lowRSSI count0 --> score 60
+E/WifiStateMachine( 1614):  isHighRSSI       ---> score=65
+E/WifiStateMachine( 1614): handleMessage: X
+
+E/WifiStateMachine( 1614): WiFiStateMachine SCAN ALARM（修改如上后问题解决；原因为Android5.0本身就有这个自动scan的机制。）
+E/WifiStateMachine( 1614): handleMessage: E msg.what=131143
+E/WifiStateMachine( 1614): processMsg: ConnectedState
+E/WifiStateMachine( 1614): processMsg: L2ConnectedState
+
+E/WifiStateMachine( 1614): handleMessage: X
+
+E/WifiStateMachine( 1614): handleMessage: E msg.what=131155
+E/WifiStateMachine( 1614): processMsg: ConnectedState
+E/WifiStateMachine( 1614): processMsg: L2ConnectedState
+E/WifiStateMachine( 1614):  get link layer stats 0
+E/WifiStateMachine( 1614): fetchRssiLinkSpeedAndFrequencyNative rssi=-45 linkspeed=300
+E/WifiStateMachine( 1614): calculateWifiScore freq=2412 speed=300 score=60 highRSSI  -> txbadrate=0.00 txgoodrate=25.91 txretriesrate=0.00 rxrate=56.06 userTriggerdPenalty0
+E/WifiStateMachine( 1614):  good link -> stuck count =0
+E/WifiStateMachine( 1614):  badRSSI count0 lowRSSI count0 --> score 60
+E/WifiStateMachine( 1614):  isHighRSSI       ---> score=65
+E/WifiStateMachine( 1614): handleMessage: X
+
+E/SurfaceFlinger( 1191): blurlayer setlayer do not need tran!
+
+E/WifiStateMachine( 1614): handleMessage: E msg.what=131155
+E/WifiStateMachine( 1614): processMsg: ConnectedState
+E/WifiStateMachine( 1614): processMsg: L2ConnectedState
+E/WifiStateMachine( 1614):  get link layer stats 0
+E/WifiStateMachine( 1614): fetchRssiLinkSpeedAndFrequencyNative rssi=-45 linkspeed=300
+E/WifiStateMachine( 1614): calculateWifiScore freq=2412 speed=300 score=60 highRSSI  -> txbadrate=0.00 txgoodrate=10.12 txretriesrate=0.00 rxrate=10.75 userTriggerdPenalty0
+E/WifiStateMachine( 1614):  good link -> stuck count =0
+E/WifiStateMachine( 1614):  badRSSI count0 lowRSSI count0 --> score 60
+E/WifiStateMachine( 1614):  isHighRSSI       ---> score=65
+E/WifiStateMachine( 1614): handleMessage: X
+
+E/WifiStateMachine( 1614): WiFiStateMachine SCAN ALARM
+E/WifiStateMachine( 1614): handleMessage: E msg.what=131143
+E/WifiStateMachine( 1614): processMsg: ConnectedState
+E/WifiStateMachine( 1614): processMsg: L2ConnectedState
+
+E/WifiStateMachine( 1614): handleMessage: E msg.what=131155
+E/WifiStateMachine( 1614): processMsg: ConnectedState
+E/WifiStateMachine( 1614): processMsg: L2ConnectedState
+E/WifiStateMachine( 1614):  get link layer stats 0
+E/WifiStateMachine( 1614): fetchRssiLinkSpeedAndFrequencyNative rssi=-45 linkspeed=300
+E/WifiStateMachine( 1614): calculateWifiScore freq=2412 speed=300 score=60 highRSSI  -> txbadrate=0.00 txgoodrate=10.28 txretriesrate=0.00 rxrate=8.94 userTriggerdPenalty0
+E/WifiStateMachine( 1614):  good link -> stuck count =0
+E/WifiStateMachine( 1614):  badRSSI count0 lowRSSI count0 --> score 60
+E/WifiStateMachine( 1614):  isHighRSSI       ---> score=65
+E/WifiStateMachine( 1614): handleMessage: X
+
+E/WifiStateMachine( 1614): handleMessage: E msg.what=131155
+E/WifiStateMachine( 1614): processMsg: ConnectedState
+E/WifiStateMachine( 1614): processMsg: L2ConnectedState
+E/WifiStateMachine( 1614):  get link layer stats 0
+E/WifiStateMachine( 1614): fetchRssiLinkSpeedAndFrequencyNative rssi=-45 linkspeed=300
+E/WifiStateMachine( 1614): calculateWifiScore freq=2412 speed=300 score=60 highRSSI  -> txbadrate=0.00 txgoodrate=8.64 txretriesrate=0.00 rxrate=6.97 userTriggerdPenalty0
+E/WifiStateMachine( 1614):  good link -> stuck count =0
+E/WifiStateMachine( 1614):  badRSSI count0 lowRSSI count0 --> score 60
+E/WifiStateMachine( 1614):  isHighRSSI       ---> score=65
+E/WifiStateMachine( 1614): handleMessage: X
+
+E/WifiStateMachine( 1614): handleMessage: E msg.what=131155
+E/WifiStateMachine( 1614): processMsg: ConnectedState
+E/WifiStateMachine( 1614): processMsg: L2ConnectedState
+E/WifiStateMachine( 1614):  get link layer stats 0
+E/WifiStateMachine( 1614): fetchRssiLinkSpeedAndFrequencyNative rssi=-45 linkspeed=300
+E/WifiStateMachine( 1614): calculateWifiScore freq=2412 speed=300 score=60 highRSSI  -> txbadrate=0.00 txgoodrate=6.82 txretriesrate=0.00 rxrate=9.98 userTriggerdPenalty0
+E/WifiStateMachine( 1614):  good link -> stuck count =0
+E/WifiStateMachine( 1614):  badRSSI count0 lowRSSI count0 --> score 60
+E/WifiStateMachine( 1614):  isHighRSSI       ---> score=65
+E/WifiStateMachine( 1614): handleMessage: X
+
+W/ActivityManager( 1614): getTasks: caller 10027 does not hold GET_TASKS; limiting output（android 5.0下一直打这个 log）
+E/WifiStateMachine( 1614): handleMessage: E msg.what=131155
+E/WifiStateMachine( 1614): processMsg: ConnectedState
+E/WifiStateMachine( 1614): processMsg: L2ConnectedState
+E/WifiStateMachine( 1614):  get link layer stats 0
+E/WifiStateMachine( 1614): fetchRssiLinkSpeedAndFrequencyNative rssi=-45 linkspeed=300
+E/WifiStateMachine( 1614): calculateWifiScore freq=2412 speed=300 score=60 highRSSI  -> txbadrate=0.00 txgoodrate=6.41 txretriesrate=0.00 rxrate=7.99 userTriggerdPenalty0
+E/WifiStateMachine( 1614):  good link -> stuck count =0
+E/WifiStateMachine( 1614):  badRSSI count0 lowRSSI count0 --> score 60
+E/WifiStateMachine( 1614):  isHighRSSI       ---> score=65
+E/WifiStateMachine( 1614): handleMessage: X
+
+E/WifiStateMachine( 1614): handleMessage: E msg.what=131155
+E/WifiStateMachine( 1614): processMsg: ConnectedState
+E/WifiStateMachine( 1614): processMsg: L2ConnectedState
+E/WifiStateMachine( 1614):  get link layer stats 0
+E/WifiStateMachine( 1614): fetchRssiLinkSpeedAndFrequencyNative rssi=-45 linkspeed=300
+E/WifiStateMachine( 1614): calculateWifiScore freq=2412 speed=300 score=60 highRSSI  -> txbadrate=0.00 txgoodrate=7.20 txretriesrate=0.00 rxrate=7.00 userTriggerdPenalty0
+E/WifiStateMachine( 1614):  good link -> stuck count =0
+E/WifiStateMachine( 1614):  badRSSI count0 lowRSSI count0 --> score 60
+E/WifiStateMachine( 1614):  isHighRSSI       ---> score=65
+E/WifiStateMachine( 1614): handleMessage: X
+
+Android Native
+E/XCDipHardware_einstein( 1198): NULL window object
+E/XCDipHardware_einstein( 1198): Not use CMA,just do screen shot!
+
+I/System.out( 4646): [JPush] - Response error - code:1005, message:
+E/JPush   ( 4646): [ConnectingHelper] Register Failed with server error - code:1005, message:
+
+E/JPush   ( 5502): [ConnectingHelper] Register Failed with server error - code:1005, message:
+
+E/moves   ( 4646):   onPause
+
+E/isyakebao( 4646): back
+
+
+W/MediaFocusControl( 1614):   AudioFocus   audio focus client died
+I/MediaFocusControl( 1614): AudioFocus  removeFocusStackEntry(): removing entry for android.os.BinderProxy@1eccbee9
+D/mstplayer( 1198): [1198] (0x0xf31100d0)MstPlayer::reset
+D/WifiService( 1614): Client connection lost with reason: 4
+W/InputDispatcher( 1614): channel '1d0b42f4 com.android.launcher1905/com.android.launcherxc1905.XCCenterActivity (server)' ~ Consumer closed input channel or an error occurred.  events=0xd
+E/InputDispatcher( 1614): channel '1d0b42f4 com.android.launcher1905/com.android.launcherxc1905.XCCenterActivity (server)' ~ Channel is unrecoverably broken and will be disposed!
+
+E/WidgetVideo( 2346): initInputSourceE==s==1
+E/WidgetVideo( 2346): MainActivity==onStart
+
+访问了不可用的资源被服务器拒绝（地址错了）
+E/Volley  ( 2346): [68] BasicNetwork.performRequest: Unexpected response code 403 for http://images.can-tv.cn/02/cmsadmin/upload/
+D/BluetoothManagerService( 1614): Message: 30
+
+E/LauncherApplication( 5502): oncreate
+W/SoundPool( 5502): App requested 0 channels
+
+E/makeDir ( 5502): path>>>/storage/emulated/0/launcher1905/
+E/makeDir ( 5502): fileSize>>0
+E/makeDir ( 5502): path>>>/storage/emulated/0/launcher1905/apk/
+E/makeDir ( 5502): fileSize>>0
+E/makeDir ( 5502): path>>>/storage/emulated/0/launcher1905/zip/
+E/makeDir ( 5502): fileSize>>0
+E/makeDir ( 5502): path>>>/storage/emulated/0/launcher1905/launcherUpdate/
+E/makeDir ( 5502): fileSize>>0
+E/makeDir ( 5502): path>>>/storage/emulated/0/launcher1905/icon/
+D/NuPlayerDriver( 1198): start(0xf337b4c0)
+I/GenericSource( 1198): start
+E/makeDir ( 5502): fileSize>>6575064
+E/makeDir ( 5502): path>>>/storage/emulated/0/launcher1905/localFilm/
+E/makeDir ( 5502): fileSize>>0
+E/makeDir ( 5502): path>>>/storage/emulated/0/launcher1905/browser/
+E/makeDir ( 5502): fileSize>>31000
+E/makeDir ( 5502): path>>>/storage/emulated/0/launcher1905/cpy/
+E/makeDir ( 5502): fileSize>>0
+E/makeDir ( 5502): path>>>/storage/emulated/0/launcher1905/film/
+I/makeDir ( 5502): 31457280    fileSize>>5740609
+I/makeDir ( 5502): 目录 true   24 fDir.length()>>4096
+E/makeDir ( 5502): path>>>/storage/emulated/0/launcher1905/specialFilm/
+I/makeDir ( 5502): 31457280    fileSize>>0
+I/makeDir ( 5502): 目录 true   0 fDir.length()>>4096
+E/makeDir ( 5502): path>>>/storage/emulated/0/launcher1905/leftFilm/
+I/makeDir ( 5502): 31457280    fileSize>>155443
+I/makeDir ( 5502): 目录 true   1 fDir.length()>>4096
+E/makeDir ( 5502): path>>>/storage/emulated/0/launcher1905/prefilmadvert/
+I/makeDir ( 5502): 31457280    fileSize>>0
+I/makeDir ( 5502): 目录 true   0 fDir.length()>>4096
+E/makeDir ( 5502): path>>>/storage/emulated/0/launcher1905/allbackgroud/
+I/makeDir ( 5502): 31457280    fileSize>>0
+I/makeDir ( 5502): 目录 true   0 fDir.length()>>4096
+E/makeDir ( 5502): path>>>/storage/emulated/0/launcher1905/helpCfgPath/
+E/makeDir ( 5502): fileSize>>0
+E/makeDir ( 5502): path>>>/storage/emulated/0/launcher1905/cfg/
+E/makeDir ( 5502): fileSize>>0
+E/makeDir ( 5502): path>>>/data/data/com.android.launcher1905/files/
+E/makeDir ( 5502): fileSize>>49696
+E/makeDir ( 5502): path>>>/data/data/com.android.launcher1905/files/launcher1905/
+E/makeDir ( 5502): fileSize>>964477
+E/makeDir ( 5502): path>>>/data/data/com.android.launcher1905/files/launcher1905/icon/
+E/makeDir ( 5502): fileSize>>0
+E/makeDir ( 5502): path>>>/data/data/com.android.launcher1905/files/launcher1905/cfg/
+E/makeDir ( 5502): fileSize>>0
+E/makeDir ( 5502): path>>>/data/data/com.android.launcher1905/files/launcher1905/browser/
+E/makeDir ( 5502): fileSize>>0
+E/makeDir ( 5502): path>>>/data/data/com.android.launcher1905/files/launcher1905/cpy/
+E/makeDir ( 5502): fileSize>>0
+E/makeDir ( 5502): path>>>/data/data/com.android.launcher1905/files/launcher1905/film/
+E/makeDir ( 5502): fileSize>>0
+E/makeDir ( 5502): path>>>/data/data/com.android.launcher1905/files/launcher1905/leftFilm/
+I/makeDir ( 5502): 31457280    fileSize>>0
+I/makeDir ( 5502): 目录 true   0 fDir.length()>>4096
+E/makeDir ( 5502): path>>>/data/data/com.android.launcher1905/files/launcher1905/prefilmadvert/
+I/makeDir ( 5502): 31457280    fileSize>>0
+D/NuPlayerDriver( 1198): reset(0xf337b4c0)
+I/makeDir ( 5502): 目录 true   0 fDir.length()>>4096
+E/makeDir ( 5502): path>>>/data/data/com.android.launcher1905/files/launcher1905/allbackgroud/
+I/makeDir ( 5502): 31457280    fileSize>>0
+I/makeDir ( 5502): 目录 true   0 fDir.length()>>4096
+E/makeDir ( 5502): path>>>/data/data/com.android.launcher1905/files/launcher1905/specialFilm/
+E/makeDir ( 5502): fileSize>>0
+D/NuPlayerDriver( 1198): notifyResetComplete(0xf337b4c0)
+E/makeDir ( 5502): path>>>/data/data/com.android.launcher1905/files/launcher1905/apk/
+E/makeDir ( 5502): fileSize>>0
+E/makeDir ( 5502): path>>>/data/data/com.android.launcher1905/files/launcher1905/zip/
+E/makeDir ( 5502): fileSize>>0
+E/makeDir ( 5502): path>>>/data/data/com.android.launcher1905/files/launcher1905/launcherUpdate/
+E/makeDir ( 5502): fileSize>>0
+
+
+E/makeDir ( 5502): path>>>/data/data/com.android.launcher1905/files/launcher1905/allbackgroud/
+I/makeDir ( 5502): 31457280    fileSize>>0
+I/makeDir ( 5502): 目录 true   0 fDir.length()>>4096
+E/makeDir ( 5502): path>>>/data/data/com.android.launcher1905/files/launcher1905/specialFilm/
+E/makeDir ( 5502): fileSize>>0
+D/NuPlayerDriver( 1198): notifyResetComplete(0xf337b4c0)
+E/makeDir ( 5502): path>>>/data/data/com.android.launcher1905/files/launcher1905/apk/
+E/makeDir ( 5502): fileSize>>0
+E/makeDir ( 5502): path>>>/data/data/com.android.launcher1905/files/launcher1905/zip/
+E/makeDir ( 5502): fileSize>>0
+E/makeDir ( 5502): path>>>/data/data/com.android.launcher1905/files/launcher1905/launcherUpdate/
+E/makeDir ( 5502): fileSize>>0
+
+E/SQLiteLog( 5502): (1) table approvalFilms already exists
+D/hwcomposer( 1191): lastHWWindowInfo is dirty
+
+
+E/SQLiteLog( 5502): (1) table titleinfos already exists
+W/System.err( 5502): android.database.sqlite.SQLiteException: table titleinfos already exists (code 1): ,
+ while compiling: create table titleinfos (id int primary key, name text not null, index_s int not null,layout text not null)
+
+
+E/userApps数据库( 5502): Exception
+W/System.err( 5502): android.database.CursorIndexOutOfBoundsException: Index 0 requested, with a size of 0
+
+W/NotificationService( 1614): Object died trying to hide notification android.app.ITransientNotification$Stub$Proxy@35c55d93 in package com.android.launcher1905
+
+I/ActivityManager( 1614): START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 pkg=com.android.launcher1905 cmp=com.android.launcher1905/com.android.launcherxc1905.XCCenterActivity} from uid 10027 on display 0
+W/WindowManager( 1614): Token{391fe5c9 ActivityRecord{3a3dd1d0 u0 com.android.launcher1905/com.android.launcherxc1905.XCCenterActivity t38}} failed creating starting window
+W/WindowManager( 1614): android.view.InflateException: Binary XML file line #35: Error inflating class <unknown>
+W/WindowManager( 1614): 	at android.view.LayoutInflater.createView(LayoutInflater.java:633)
+W/WindowManager( 1614): 	at com.android.internal.policy.impl.PhoneLayoutInflater.onCreateView(PhoneLayoutInflater.java:55)
+
+
+E/WidgetVideo( 2346): MainActivity==OnPause
+
+E/homebg  ( 5502): getBaseLayout
+
+E/TAG     ( 5502): 8037
+E/TAG     ( 5502): 8037/8037
+
+E/send    ( 5502): GlobalConsts.ROM_SN =
+E/HJT     ( 5502): request = http://m.pt1905.gitv.tv/app/index?serverId=8037&channel_version=8037&mac=a8:82:7f:01:e2:3f&launcher_version=9000.0.48&client_id=1080109&home_version=110
+
+E/videoRestart( 5502): gray:   false
+I/Center  ( 5502):  begin
+E/Center  ( 5502):  -normal loading data
+E/HJT     ( 5502): request = http://m.pt1905.gitv.tv/ad/9000005?serverId=8037&channel_version=8037&mac=a8:82:7f:01:e2:3f&launcher_version=9000.0.48&client_id=1080109&home_version=110
+E/Center  ( 5502):  loadFragments send  data to Fragment
+I/Center  ( 5502):  identifier = homepage
+E/Center  ( 5502):  homepages != null
+I/Center  ( 5502):  identifier = filmlist
+E/Center  ( 5502): filmlists != null
+I/Center  ( 5502):  identifier = cctv6
+E/Center  ( 5502): cctv6 != null
+I/Center  ( 5502):  identifier = setting
+E/Center  ( 5502): setting != null
+E/Center  ( 5502):  refrush or new adapter
+E/Center  ( 5502):  adapter is null , new adapter
+
+
+E/HJT     ( 5502): request = http://m.pt1905.gitv.tv/gitv/auth?serverId=8037&channel_version=8037&mac=a8:82:7f:01:e2:3f&launcher_version=9000.0.48&client_id=1080109&home_version=110
+E/getXCDeviceInformation( 5502): getXCDeviceInformation1-----------------------GlobalConsts.versonCode : 9000048
+E/mmm     ( 5502): method = selectHandle
+
+E/进入游戏( 5502): 包名com.android.launcher1905
+E/EventService( 5502): 包名-----com.android.launcher1905
+
+E/GlobalConsts.DEVICESID( 5502): Exception
+
+E/进入游戏( 5502): 包名com.android.launcher1905
+E/EventService( 5502): 包名-----com.android.launcher1905
+
+E/XCDRMPlay( 5502): /data/data/com.android.launcher1905/app_wasabi
+
+E/下载测试( 5502): doRetrieveApps GlobalConsts.networkFlag>>true
+E/下载测试( 5502): doRetrieveApps isDatabaseFlag>>true
+E/下载测试( 5502): doRetrieveApps retrieveAppStatus>>0
+E/mmm     ( 5502): method = selectUserApp
+
+E/GlobalConsts.DEVICESID( 5502): Exception
+
+E/HJT     ( 5502): request = http://m.pt1905.gitv.tv/live/album/1
+
+E/HJT     ( 5502): LiveChannelLoader request = http://m.pt1905.gitv.tv/live/album/1
+E/HJT     ( 5502): LiveChannelLoader ret = {"code":2000,"data":{"channels":[{"id":8,"title":"1905综合"},{"id":9,"title":"女神拼盘"},{"id":10,"title":"最爱男神"},{"id":11,"title":"劲爆热血"},{"id":12,"title":"燃情热恋"},{"id":13,"title":"宝宝最爱"},{"id":15,"title":"记忆经典"},{"id":18,"title":"金猴贺岁"},{"id":16,"title":"惊声尖叫"}]}}
+
+
+
+E/makeDir ( 5502): path>>>/storage/emulated/0/launcher1905/apk/
+E/makeDir ( 5502): fileSize>>0
+E/makeDir ( 5502): path>>>/storage/emulated/0/launcher1905/zip/
+E/makeDir ( 5502): fileSize>>0
+E/makeDir ( 5502): path>>>/data/data/com.android.launcher1905/files/launcher1905/apk/
+E/makeDir ( 5502): fileSize>>0
+
+E/USP     ( 1810): ~~~~~~~~~@@@@ now updating content://mstar.tv.usersetting/soundsetting
+
+E/USP     ( 1810): ~~~~~~~~~@@@@ now updating Volume=1
+
